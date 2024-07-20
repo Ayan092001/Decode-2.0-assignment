@@ -11,3 +11,5 @@ int main()
     x %= y;
     cout << x;
 }
+
+//the output will come 2
